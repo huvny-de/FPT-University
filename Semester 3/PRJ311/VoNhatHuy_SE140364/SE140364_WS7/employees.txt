@@ -1,0 +1,5 @@
+E001,Hoang Anh Tuan,157
+E002,Tran Vu Luong,290
+E003,Luong Thuy Hang,321
+E004,Tran Xuan Kien,321
+E006,Luong Toan Thang,209

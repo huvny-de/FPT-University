@@ -1,0 +1,16 @@
+4,5,8,9,10,11
+Pham Tan Phat (K14 HCM)13:02
+oh
+Do Duong Tam Dang (K14 HCM)13:07
+Cô ơi, lab 11 là làm phần tiếp theo của lab 10 thôi đúng hông cô. Có làm phần assignment phía sau hông ạ ?
+(FU HCM) Thân Thị Ngọc Vân13:12
+ôi, làm hết em ơi
+Do Duong Tam Dang (K14 HCM)13:12
+Dạ, em biết rồi
+(FU HCM) Thân Thị Ngọc Vân13:13
+cố nha, PE ra file tẽt va collection đó
+Nguyen Quang Minh (K14 HCM)13:14
+cô ơi, lab10 xuất ra học sinh học nhiều campus là làm ntn v cô 
+(FU HCM) Thân Thị Ngọc Vân13:16
+tạo arrayLít dể chưa ds sv hoc >3 campus, tao count=0, ;   lấyy tung id cua sv và dem xem nó xuất hiện trong map bn lan. néu count>=2 thi them nó vao list
+>=2

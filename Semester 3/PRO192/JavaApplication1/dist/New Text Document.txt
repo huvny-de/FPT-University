@@ -1,0 +1,6 @@
+Hay viet cac constructor( chuẩn, truyền tham số), getter, setter trong cac lop sanpham, diem, phanso
+test những hàm này dưới hàm main
+trong set : 
+Gia gốc >0
+giảm giá 0.0 > 1.0 ( float, double)
+mẫu # 0
